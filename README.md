@@ -1,1 +1,1 @@
-# DesignPrinciples
+# epam_calculator_designprinciples_task
